@@ -264,7 +264,6 @@ section{
 
     .main{
         background-image: none;
-        padding-top: 0px;
     }
 
     .main-container{
@@ -295,17 +294,17 @@ section{
         align-items: center;
         visibility: hidden;
     }
-
+/*
     .main{
         background-image: none;
         padding-top: 0px;
     }
 
+ 
     .main-container{
         text-align: center;
         margin: auto;
     }
-
 
     .title{
         font-size: 1.8em;
@@ -313,13 +312,22 @@ section{
 
     section{
         padding: 80px 20px;
-    }
+    } */
 
     .footer .footer-title{
-        font-size: 0.9em;
+        font-size: 0.6em;
     }
     
     .footer .icons-footer{
+        padding-top: 0px;
+        font-size: 0.5em;
+    }
+}
+
+@media (max-width: 334px){
+        
+    .footer .icons-footer{
+        visibility: hidden;
         padding-top: 0px;
         font-size: 0.5em;
     }
