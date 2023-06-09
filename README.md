@@ -13,7 +13,6 @@ The portfolio website is built using the following technologies:
 - HTML5: Provides the structure and layout of the webpages.
 - CSS3: Used for styling and design elements of the website.
 - JavaScript: Adds interactivity and enhances the user experience.
-- Bootstrap: Utilized for responsive design and pre-built components.
 - GitHub Pages: Enables hosting the website directly from the GitHub repository.
 
 ## Navigation
